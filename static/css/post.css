@@ -1,0 +1,20 @@
+#date {
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: normal;
+    color: #999999;
+    font-size: 0.8em;
+}
+
+#content {
+    padding-top: 1em;
+    font-size: 0.85em;
+    text-align: justify;
+    width: 95%;
+}
+
+#content p {
+    margin-top: 0.5em;
+    line-height: 1.5em;
+}
